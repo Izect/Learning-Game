@@ -15,6 +15,7 @@ namespace Learning_Game
     {
 
 //njkl
+//school gmail edit
 
         List<PictureBox> picboxlist = new List<PictureBox>();
         List<Bitmap> images = new List<Bitmap>();
